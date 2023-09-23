@@ -14,6 +14,7 @@
 
 #menu-h {
   background-color: rgb(37, 37, 39);
+  
 }
 
 #menu-h ul {
@@ -44,46 +45,49 @@
   background-color: rgb(240, 81, 18);
 }
 
-body{background-color: #FFFAF0;	}
+body {
+  background-color: #FFFAF0;
+}
 
 
-.Inicio{
-max-width: max-content;
-max-height: max-content;
-color: rgb(165, 42, 42);
+.Inicio {
+  max-width: max-content;
+  max-height: max-content;
+  color: rgb(165, 42, 42);
 
 }
 
-.produtos{
+.produtos {
   background-color: rgb(169, 169, 169);
 
 
 
 }
 
-.produtos > .mochila{ 
+.produtos>.mochila {
   height: 150px;
 
 
 }
 
-.produtos > .bolsa{
+.produtos>.bolsa {
   height: 150px;
-  
+
 
 
 }
 
 footer {
-	background-color: #333;
-	color: #fff;
-	padding: 20px;
-	text-align: center;
-	
-  margin-top: 200px;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  bottom: 0;
+  
+  margin-top: 500px;
 }
 
-.pe ul li a{
+.pe ul li a {
   color: #fff;
 
   padding: 20px;
@@ -97,11 +101,12 @@ footer {
 
 }
 
-.pe ul li a:hover{
+.pe ul li a:hover {
   background-color: rgb(240, 81, 18);
 
 
 }
-.pe ul li{
+
+.pe ul li {
   display: inline;
 }
