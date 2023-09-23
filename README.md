@@ -52,7 +52,7 @@ Foi usada para inserir as imagens
 ## Seletores e classes e propriedades
 
 
-#menu-h foi para colocar uma cor no fundo da pagina
+#menu-h foi para colocar uma cor no fundo do cabeçalho
 
 #menu-h ul: Este é um seletor CSS que direciona um elemento ul que é um descendente de um elemento com o ID "menu-h". Em outras palavras, ele seleciona elementos ul que estão dentro de um elemento com o ID "menu-h".
 
