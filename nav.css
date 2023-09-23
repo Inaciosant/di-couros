@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+
+
+* {
+  margin: 0 auto;
+
+  padding: 0;
+
+  box-sizing: border-box;
+
+  font-family: "Open Sans", sans-serif;
+}
+
+#menu-h {
+  background-color: rgb(37, 37, 39);
+}
+
+#menu-h ul {
+  max-width: 800px;
+
+  list-style: none;
+
+  padding: 0;
+}
+
+#menu-h ul li {
+  display: inline;
+}
+
+#menu-h ul li a {
+  color: #fff;
+
+  padding: 20px;
+
+  display: inline-block;
+
+  text-decoration: none;
+
+  transition: background 0.4s;
+}
+
+#menu-h ul li a:hover {
+  background-color: rgb(240, 81, 18);
+}
+
+body{background-color: #FFFAF0;	}
+
+
+.Inicio{
+max-width: max-content;
+max-height: max-content;
+color: rgb(165, 42, 42);
+
+}
+
+.produtos{
+  background-color: rgb(169, 169, 169);
+
+
+
+}
+
+.produtos > .mochila{ 
+  height: 150px;
+
+
+}
+
+.produtos > .bolsa{
+  height: 150px;
+  
+
+
+}
+
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	
+  margin-top: 200px;
+}
+
+.pe ul li a{
+  color: #fff;
+
+  padding: 20px;
+
+  display: inline-block;
+
+  text-decoration: none;
+
+  transition: background 0.4s;
+
+
+}
+
+.pe ul li a:hover{
+  background-color: rgb(240, 81, 18);
+
+
+}
+.pe ul li{
+  display: inline;
+}
