@@ -17,7 +17,7 @@ https://di-couros.netlify.app/
 Foi usada para criar o Cabeçalho do site.
 
 ## A tag Div
-Foi usada para dividi o site em blocos, facilitando a estilização.
+Foi usada para dividir o site em blocos, facilitando a estilização.
 
 ## Tag H1
 Foi usada para criar o título de uma seção
